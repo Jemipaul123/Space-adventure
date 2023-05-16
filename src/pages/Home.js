@@ -10,6 +10,7 @@ import Navbar from "../components/Navbar";
 import "../styles/Home.css";
  function Home() {
 
+  
 /*  const animationContainer = useRef(null);*/
 
   /*useEffect(() => {
