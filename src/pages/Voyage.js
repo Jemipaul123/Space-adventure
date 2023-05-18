@@ -8,6 +8,7 @@ function Voyage() {
 
   
     return (
+      
       <div className="home" style ={{backgroundImage: `url(${Image})`}}>
     <div className="headerContainer" >
      
