@@ -9,7 +9,7 @@ import Navbar from "../components/Navbar";
 
 import "../styles/Home.css";
  function Home() {
-
+//animation
   
 /*  const animationContainer = useRef(null);*/
 
